@@ -1,6 +1,6 @@
 # ifconfig_call_scheduler
 
-This script schedules API calls to `ifconfig.co` at specific times and generates the logs accordingly.
+This script schedules API calls to `ifconfig.co` at specific times and generates the results accordingly.
 
 ## How to Run
 Run the script with timestamps in `HH:MM:SS` format:
